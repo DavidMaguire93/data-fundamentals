@@ -4,7 +4,7 @@ David Maguire
 ***
 
 # Project Description
-This project contains Jupyter Notebooks and relevent files for the runnign of the Notebooks. The Jupyter Notebooks are:
+This project contains Jupyter Notebooks and relevent files for the running of the Notebooks. The Jupyter Notebooks are:
  - pyplot.ipynb: a Notebook on pyplot and 3 select plots chosen by me
  - cao.ipynb: A Notebook on the preparation and analysis of CAO course requirements from the years 2021, 2020 and 2019
 
@@ -14,6 +14,7 @@ This project contains Jupyter Notebooks and relevent files for the runnign of th
 
 This project was made with Anaconda version 2020.11. Some packaged may be auto installed on this version that do not come with regular python. Please see below a list of required packages:
 
+re
 requests
 datetime
 pandas
