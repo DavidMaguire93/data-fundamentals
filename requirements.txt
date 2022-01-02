@@ -3,3 +3,6 @@ datetime
 pandas
 urllib.request
 itertools
+matplotlib
+seaborn
+numpy
